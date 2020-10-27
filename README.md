@@ -2,23 +2,24 @@
 
 ![Branching](air-port.jpg)
 
-- News of week: 9 Arizona State students from China detained at LA airport, denied admission to U.S.
+- News of the day: Detained as a minor smuggler at Lisbon airport.
 
-Nine Chinese students who attend Arizona State University were denied entry into the US when they arrived at Los Angeles International airport last month and university officials are demanding to know why the students were sent back to China - according to news.
+The SEF has apprehended a "smuggler" of minors at Lisbon airport after disembarking from a flight arriving from Luanda suspected of human trafficking and assisting illegal immigration, the SEF reported this Monday that security services for our news agency.
 
-As we know from the news: The students were detained at LAX in the days before the start of classes on August 22 and were on their way to the university’s 
-Phoenix-area campuses, school officials said. But they were “deemed inadmissible” by Customs and Border Protection.
+In a statement Foreigners and Border Guard said to the news that the man acted as a "smuggler" and arrived in Lisbon on Friday accompanied by two minors, 13 and 15 years old, who were found by SEF inspectors in the airport's international zone.
 
-University officials news said all the students were academically eligible to return to ASU and to the US under their visas.
+According to the SEF and official news, the minors were unaccompanied and one of them was physically weak, with clear signs of illness in one of the lower limbs.
 
-A spokesperson for US Customs and Border Protection for the news reported in a statement that there are more than 60 reasons a foreigner might be considered inadmissible, including health-related grounds, criminality, security reasons and immigration violations.
+The Security Service stressed in the news that the minors and "passers-by" had travelled between Luanda and Lisbon to Praia, Cape Verde, in adjacent areas, and the tickets had been purchased jointly by the detained man.
 
-The for the news reported the Chinese students were deemed inadmissible “based on information discovered during the CBP inspection”, but did not elaborate.
+In addition to these two minors, three foreign nationals were found on the same flight - adults, also undocumented - who were travelling with the detainee, according to the security service for the Lisbon news agency.
 
-A spokesperson for the US State Department referred all inquiries to Customs and Border Protection.
+- ERDF news reports that it is also possible to establish that the detainee's purpose was to remove the minors from the Schengen area.
 
-Noted in the news: All of the students were undergraduates and among them were at least one engineer, a student studying supply-chain management and some life sciences majors, a university official said.
+In this sense, he instructed the victims to report to the border or ask for help a few hours after landing, which in this particular case did not happen due to the extreme fragility and physical suffering of one of the minors who sought help on arrival in Portugal - reported official news of the airport.
 
-ASU President Michael Crow last week sent letters to the Department of Homeland Security, which has jurisdiction over Customs and Border Protection, and the State Department, requesting a review of each student’s situation and an explanation of the “standard procedures” for screening international students and their electronic devices.
+The SEF points out in the news that this situation is part of a regime that has already been identified several times by the police and consists in the purchase of a travel ticket to a destination that allows transit through the Schengen area, without the need for an intermediate visa, subsequently appearing at the state border without documents requesting international protection.
 
-*“In our country, where we value due process and celebrate the different ways in which our government behaves from that of the arbitrary and capricious behaviour of other nations, it is beyond my comprehension how the US government could establish and implement policies that bring about the outcomes we are now witnessing,”* Crow wrote for the news.
+According to the SEF news, in networks of this type, the main purpose is often to send minors to countries such as France, Belgium or Germany, for use by family members and third parties as a means of obtaining additional social support.
+
+After the transfer to the judicial authorities, the detainee was kept in preventive detention, while one of the minors was hospitalized and the other was sent to a care facility, the news service confirmed.
