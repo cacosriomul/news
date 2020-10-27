@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Police reveals the truth behind biggest detention
 
-You can use the [editor on GitHub](https://github.com/cacosriomul/news/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Branching](air-port.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- News of week: 9 Arizona State students from China detained at LA airport, denied admission to U.S.
 
-### Markdown
+Nine Chinese students who attend Arizona State University were denied entry into the US when they arrived at Los Angeles International airport last month and university officials are demanding to know why the students were sent back to China - according to news.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As we know from the news: The students were detained at LAX in the days before the start of classes on August 22 and were on their way to the university’s 
+Phoenix-area campuses, school officials said. But they were “deemed inadmissible” by Customs and Border Protection.
 
-```markdown
-Syntax highlighted code block
+University officials news said all the students were academically eligible to return to ASU and to the US under their visas.
 
-# Header 1
-## Header 2
-### Header 3
+A spokesperson for US Customs and Border Protection for the news reported in a statement that there are more than 60 reasons a foreigner might be considered inadmissible, including health-related grounds, criminality, security reasons and immigration violations.
 
-- Bulleted
-- List
+The for the news reported the Chinese students were deemed inadmissible “based on information discovered during the CBP inspection”, but did not elaborate.
 
-1. Numbered
-2. List
+A spokesperson for the US State Department referred all inquiries to Customs and Border Protection.
 
-**Bold** and _Italic_ and `Code` text
+Noted in the news: All of the students were undergraduates and among them were at least one engineer, a student studying supply-chain management and some life sciences majors, a university official said.
 
-[Link](url) and ![Image](src)
-```
+ASU President Michael Crow last week sent letters to the Department of Homeland Security, which has jurisdiction over Customs and Border Protection, and the State Department, requesting a review of each student’s situation and an explanation of the “standard procedures” for screening international students and their electronic devices.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cacosriomul/news/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*“In our country, where we value due process and celebrate the different ways in which our government behaves from that of the arbitrary and capricious behaviour of other nations, it is beyond my comprehension how the US government could establish and implement policies that bring about the outcomes we are now witnessing,”* Crow wrote for the news.
